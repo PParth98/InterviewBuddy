@@ -1,0 +1,8 @@
+<resources>
+    <array name="choice">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Angular</item>
+    </array>
+    <string name="app_name">InterviewBuddy</string>
+</resources>
